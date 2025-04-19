@@ -41,8 +41,8 @@ This project delivers a multi-model solution to supply chain shortage prediction
 - **API**: FastAPI
 - **Chatbot**: LangChain, ChromaDB, HuggingFace Embeddings
 - **LLM**: Local Language Model via HuggingFace Transformers
-- **Deployment**: FastAPI endpoints (web interface by collaborator)
-
+- **Deployment**: FastAPI endpoints
+- **Web Interface**: By collaborator
 ---
 
 ## 📊 Performance
